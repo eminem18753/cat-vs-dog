@@ -1,1 +1,0 @@
-run "cnn.py" in "cat_and_dog" folder
